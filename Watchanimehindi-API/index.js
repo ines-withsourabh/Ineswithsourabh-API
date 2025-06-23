@@ -10,6 +10,7 @@ const allAnime = require("./data/allanime.json");
 const anime = require("./data/anime.json");
 const latestAnime = require("./data/latestanime.json");
 const movies = require("./data/movies.json");
+const recommended = require("./data/recommended.json"); // ✅ New import
 
 // Home route
 app.get("/", (req, res) => {
@@ -31,6 +32,10 @@ app.get("/latest", (req, res) => {
 
 app.get("/movies", (req, res) => {
   res.json(movies);
+});
+
+app.get("/recommended", (req, res) => {
+  res.json(recommended); // ✅ New endpoint
 });
 
 // Start server
