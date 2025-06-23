@@ -6,12 +6,11 @@ const PORT = process.env.PORT || 5000;
 app.use(cors());
 
 // JSON files import
-const allAnime = require("./data/allanime.json");
+const ines = require("./data/ines.json"); // ✅ Moved to top
 const anime = require("./data/anime.json");
 const latestAnime = require("./data/latestanime.json");
 const movies = require("./data/movies.json");
 const recommended = require("./data/recommended.json");
-const ines = require("./data/ines.json"); // ✅ NEW
 
 // Home route
 app.get("/", (req, res) => {
@@ -19,8 +18,8 @@ app.get("/", (req, res) => {
 });
 
 // Endpoints
-app.get("/allanime", (req, res) => {
-  res.json(allAnime);
+app.get("/ines", (req, res) => {
+  res.json(ines); // ✅ Moved to top
 });
 
 app.get("/anime", (req, res) => {
@@ -37,10 +36,6 @@ app.get("/movies", (req, res) => {
 
 app.get("/recommended", (req, res) => {
   res.json(recommended);
-});
-
-app.get("/ines", (req, res) => {
-  res.json(ines); // ✅ NEW endpoint
 });
 
 // Start server
