@@ -1,0 +1,134 @@
+{
+  "allAnimeData": [
+    {
+      "title": "Wistoria: Wand and Sword",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWU1OTgxYTMtZTViMy00MmU0LTg2ZGMtZDVkYTNlYzI4NWRjXkEyXkFqcGc@.V1.jpg",
+      "genres": ["Action", "Fantasy", "Shonen"]
+    },
+    {
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGM2MzA5YzYtODc0Ni00ZjU4LWI4ZmUtZGJjNGU0ODY1MGJkXkEyXkFqcGdeQXVyMzgxODM4NjM@.V1.jpg",
+      "genres": ["Shonen"]
+    },
+    {
+      "title": "Patema Inverted hindi Dubbed",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjE1ZDUwNGYtYzM2Ni00NzhiLWFjOTAtMDM4ZDRiNzM5NTkxXkEyXkFqcGdeQXVyMjQ1NjEyNzE@.V1.jpg",
+      "genres": ["Comedy"]
+    },
+    {
+      "title": "A Whisker Away Nakitai Watashi wa Neko wo Kaburu",
+      "image": "https://th.bing.com/th/id/OIP.ZlQ5dVdTotxeKeUHQITz3gHaLH?rs=1&pid=ImgDetMain",
+      "genres": ["Superhero"]
+    },
+    {
+      "title": "Summer Time Rendering",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTkyOTczNzYtNDgwYi00YjBkLWFhYWEtZGYyMjEyMTAwYmM3XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg",
+      "genres": ["Thriller"]
+    },
+    {
+      "title": "Rent a Girlfriend Season 3",
+      "image": "https://a.storyblok.com/f/178900/707x1000/ee91cdf6ec/rent-a-girlfriend-staffel-3-japanisches-key-visual.jpeg/m/filters:quality(95)format(webp)",
+      "genres": ["Adventure"]
+    },
+    {
+      "title": "The Ancient Magus Bride",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjcxNzg3NzUtM2UwNy00MjlmLTg1ZjgtYTcwZGYyNDZiNmNkXkEyXkFqcGdeQXVyMzExMzk5MTQ@.V1.jpg",
+      "genres": ["Action"]
+    },
+    {
+      "title": "Demon Slayer S4: Kimetsu No Yaiba - To the Hashira Training",
+      "image": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/765ee047befcfb677d169f5de4c82d5c.jpg",
+      "genres": ["Dark Fantasy"]
+    },
+    {
+      "title": "Black Clover season 2",
+      "image": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/e108ae17d8d0407417cac40eb52d849a.jpg",
+      "genres": ["Action"]
+    },
+    {
+      "title": "Hokkaido Gals Are Super Adorable!",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWJhNDUzYWYtMDExOC00M2FiLWJmNDctOGI4NTA4ZTQyODU2XkEyXkFqcGdeQXVyMTUzMTg2ODkz.V1.jpg",
+      "genres": ["Comedy"]
+    },
+    {
+      "title": "One Piece Film: Red Hindi Dubbed",
+      "image": "https://i.pinimg.com/originals/a5/4d/f1/a54df18f2e2c6965bad37b3ed91de20b.jpg",
+      "genres": ["Adventure"]
+    },
+    {
+      "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+      "image": "https://flxt.tmsimg.com/assets/p19795888_v_v13_ab.jpg",
+      "genres": ["Superhero"]
+    },
+    {
+      "title": "Into the Forest of Fireflies Light",
+      "image": "https://d3tvwjfge35btc.cloudfront.net/Assets/63/887/L_p0022088763.jpg",
+      "genres": ["Dark Fantasy"]
+    },
+    {
+      "title": "Patema Inverted hindi Dubbed",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjE1ZDUwNGYtYzM2Ni00NzhiLWFjOTAtMDM4ZDRiNzM5NTkxXkEyXkFqcGdeQXVyMjQ1NjEyNzE@.V1.jpg",
+      "genres": ["Sports"]
+    },
+    {
+      "title": "A Whisker Away Nakitai Watashi wa Neko wo Kaburu",
+      "image": "https://th.bing.com/th/id/OIP.ZlQ5dVdTotxeKeUHQITz3gHaLH?rs=1&pid=ImgDetMain",
+      "genres": ["Action"]
+    },
+    {
+      "title": "Hello World Fan Dubbed",
+      "image": "https://wallpapercave.com/wp/wp6095792.jpg",
+      "genres": ["Science Fiction"]
+    },
+    {
+      "title": "A Silent Voice The Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGRkOGMxYTUtZTBhYS00NzI3LWEzMDQtOWRhMmNjNjJjMzM4XkEyXkFqcGdeQXVyMTMxODk2OTU@.V1.jpg",
+      "genres": ["Historical"]
+    },
+    {
+      "title": "I Want to Eat Your Pancreas",
+      "image": "https://wallpapercave.com/wp/wp6759455.jpg",
+      "genres": ["Fantasy"]
+    },
+    {
+      "title": "Grave of the Fireflies HD",
+      "image": "https://wallpapers.com/images/featured/grave-of-the-fireflies-hspsik04w8jq52qs.jpg",
+      "genres": ["Action"]
+    },
+    {
+      "title": "A Condition Called Love",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWRjMzRlZDktYmM0My00ZWQxLWE1MWEtNWJlMGEzMWEyNDNkXkEyXkFqcGdeQXVyMzgxODM4NjM@.V1.jpg",
+      "genres": ["Supernatural"]
+    },
+    {
+      "title": "No Longer Allowed in Another World",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjEwNWYzYmUtZTlmYi00OTA3LTljOTEtYTVmZjNiNTQyYTAxXkEyXkFqcGc@.V1.jpg",
+      "genres": ["Action"]
+    },
+    {
+      "title": "Makeine: Too Many Losing Heroines!",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzA3MWRiZjQtNzlhNS00ZmFjLTgzNWItOTA4ZWFlOWFjMDBmXkEyXkFqcGc@.V1_FMjpg_UX1000.jpg",
+      "genres": ["Sci-Fi"]
+    },
+    {
+      "title": "Tower Of God Season 1",
+      "image": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/eca729e2c2ae8ab45631c3bd11b81653.jpg",
+      "genres": ["Romance"]
+    },
+    {
+      "title": "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDJjNmNmMmYtNDQ1Zi00ZGEyLTg0NTYtZDEyNGFlYTE0NGVlXkEyXkFqcGc@.V1.jpg",
+      "genres": ["Music"]
+    },
+    {
+      "title": "Alya Sometimes Hides Her Feelings in Russian",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjg0YTVjNTItZTI1ZC00MDZlLTllYjQtMDY0ODMxNDdlYjY3XkEyXkFqcGc@.V1_FMjpg_UX1000.jpg",
+      "genres": ["Romance"]
+    },
+    {
+      "title": "Twilight Out of Focus : Season Completed",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTZhZWQ3ZGUtZjM2NC00OTViLWI3MzItOWJkNzFkY2ZhMzcwXkEyXkFqcGc@.jpg",
+      "genres": ["Drama"]
+    }
+  ]
+}
