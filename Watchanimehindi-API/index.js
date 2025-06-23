@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 5000;
 app.use(cors());
 
 // JSON files import
-const ines = require("./data/ines.json"); // ✅ Moved to top
+const ines = require("./data/Ines.json"); // ✅ Moved to top
 const anime = require("./data/anime.json");
 const latestAnime = require("./data/latestanime.json");
 const movies = require("./data/movies.json");
@@ -18,7 +18,7 @@ app.get("/", (req, res) => {
 });
 
 // Endpoints
-app.get("/ines", (req, res) => {
+app.get("/Ines", (req, res) => {
   res.json(ines); // ✅ Moved to top
 });
 
