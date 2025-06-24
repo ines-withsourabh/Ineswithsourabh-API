@@ -32,7 +32,7 @@ app.get("/latest", (req, res) => {
 });
 
 app.get("/latest-ines", (req, res) => {
-  res.json(latest-ines);
+  res.json(latest-Ines);
 });
 
 app.get("/movies", (req, res) => {
