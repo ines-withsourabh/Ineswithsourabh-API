@@ -9,7 +9,7 @@ app.use(cors());
 const ines = require("./data/Ines.json"); // ✅ Moved to top
 const anime = require("./data/anime.json");
 const latestAnime = require("./data/latestanime.json");
-const lates-Ines = require("./data/latest-ines.json");
+const lates-ines = require("./data/latest-ines.json");
 const movies = require("./data/movies.json");
 const recommended = require("./data/recommended.json");
 
@@ -32,7 +32,7 @@ app.get("/latest", (req, res) => {
 });
 
 app.get("/latest-ines", (req, res) => {
-  res.json(latest-Ines);
+  res.json(latest-ines);
 });
 
 app.get("/movies", (req, res) => {
