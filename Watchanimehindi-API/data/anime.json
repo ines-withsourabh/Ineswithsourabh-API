@@ -1,134 +1,1413 @@
-{
-  "allAnimeData": [
-    {
-      "title": "Wistoria: Wand and Sword",
-      "image": "https://m.media-amazon.com/images/M/MV5BNWU1OTgxYTMtZTViMy00MmU0LTg2ZGMtZDVkYTNlYzI4NWRjXkEyXkFqcGc@.V1.jpg",
-      "genres": ["Action", "Fantasy", "Shonen"]
+[
+  {
+    "_id": "681d72522798dd64079e677b",
+    "title": "Spirited Away",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "description": "Spirited Away is a 2001 Japanese animated fantasy film written and directed by Hayao Miyazaki. It was produced by Toshio Suzuki, animated by Studio Ghibli, and distributed by Toho.",
+    "totalEpisodes": 1,
+    "status": "Movie",
+    "rating": 8.6,
+    "genre": "Horror, Drama, Mystery,",
+    "animeUrl": "spirited-away",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/152IP5fgrIFjH6teIxHcH7MbwXdUfRcde/preview"
     },
-    {
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "image": "https://m.media-amazon.com/images/M/MV5BMGM2MzA5YzYtODc0Ni00ZjU4LWI4ZmUtZGJjNGU0ODY1MGJkXkEyXkFqcGdeQXVyMzgxODM4NjM@.V1.jpg",
-      "genres": ["Shonen"]
+    "seasons": {
+
     },
-    {
-      "title": "Patema Inverted hindi Dubbed",
-      "image": "https://m.media-amazon.com/images/M/MV5BYjE1ZDUwNGYtYzM2Ni00NzhiLWFjOTAtMDM4ZDRiNzM5NTkxXkEyXkFqcGdeQXVyMjQ1NjEyNzE@.V1.jpg",
-      "genres": ["Comedy"]
+    "likes": 9,
+    "shares": 0,
+    "date": "2025-05-09T00:00:00.000Z",
+    "updatedAt": "2025-05-09T03:11:14.635Z",
+    "__v": 0
+  },
+  {
+    "_id": "68411f2debf68b8862e0fe81",
+    "title": "5 Centimetres Per Second",
+    "image": "https://m.media-amazon.com/images/I/71H4SQqSj2L.jpg",
+    "description": "5 Centimeters per Second (Japanese: 秒速5センチメートル, Hepburn: Byōsoku Go Senchimētoru",
+    "totalEpisodes": 1,
+    "status": "Movie",
+    "rating": 7.5,
+    "genre": "Animation, Drama, Family",
+    "animeUrl": "5-centimeters-per-second",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1yWW0Kp4CDtvAEif5hEMCxWAYL0DyXOyY/preview"
     },
-    {
-      "title": "A Whisker Away Nakitai Watashi wa Neko wo Kaburu",
-      "image": "https://th.bing.com/th/id/OIP.ZlQ5dVdTotxeKeUHQITz3gHaLH?rs=1&pid=ImgDetMain",
-      "genres": ["Superhero"]
+    "seasons": {
+
     },
-    {
-      "title": "Summer Time Rendering",
-      "image": "https://m.media-amazon.com/images/M/MV5BOTkyOTczNzYtNDgwYi00YjBkLWFhYWEtZGYyMjEyMTAwYmM3XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg",
-      "genres": ["Thriller"]
+    "likes": 1,
+    "shares": 0,
+    "date": "2025-06-05T00:00:00.000Z",
+    "updatedAt": "2025-06-05T04:38:05.312Z",
+    "__v": 0
+  },
+  {
+    "_id": "68455729ebf68b8862e10710",
+    "title": "A Silent Voice ",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGRkOGMxYTUtZTBhYS00NzI3LWEzMDQtOWRhMmNjNjJjMzM4XkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg",
+    "description": "A Silent Voice (Japanese: 聲の形, Hepburn: Koe no Katachi, lit. 'Shape of Voice') is a 2016 Japanese animated drama film based on the manga of the same name by Yoshitoki Ōima",
+    "totalEpisodes": 1,
+    "status": "Movie",
+    "rating": 8.1,
+    "genre": "Animation, Drama, Family",
+    "animeUrl": "a-silent-voice",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/12OMHr0KN9bMc1LhmAPtjN_Rtrom7k0TS/preview"
     },
-    {
-      "title": "Rent a Girlfriend Season 3",
-      "image": "https://a.storyblok.com/f/178900/707x1000/ee91cdf6ec/rent-a-girlfriend-staffel-3-japanisches-key-visual.jpeg/m/filters:quality(95)format(webp)",
-      "genres": ["Adventure"]
+    "seasons": {
+
     },
-    {
-      "title": "The Ancient Magus Bride",
-      "image": "https://m.media-amazon.com/images/M/MV5BYjcxNzg3NzUtM2UwNy00MjlmLTg1ZjgtYTcwZGYyNDZiNmNkXkEyXkFqcGdeQXVyMzExMzk5MTQ@.V1.jpg",
-      "genres": ["Action"]
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T09:26:01.132Z",
+    "__v": 0
+  },
+  {
+    "_id": "684557b6ebf68b8862e10713",
+    "title": "My Oni Girl",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGJiYjFlNmYtYmUyYi00NGFhLTgyZDktYmUwNTBkNjI3NGFiXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg",
+    "description": "My Oni Girl (Japanese: 好きでも嫌いなあまのじゃく, Hepburn: Suki demo Kirai na Amanojaku) is a 2024 anime fantasy film produced by Studio Colorido and …",
+    "totalEpisodes": 1,
+    "status": "Movie",
+    "rating": 6.1,
+    "genre": "Animation, Drama, Family",
+    "animeUrl": "my-oni-girl",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/14ATIdqhDniBcHIZERkfATqF-p6DIVRk5/preview"
     },
-    {
-      "title": "Demon Slayer S4: Kimetsu No Yaiba - To the Hashira Training",
-      "image": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/765ee047befcfb677d169f5de4c82d5c.jpg",
-      "genres": ["Dark Fantasy"]
+    "seasons": {
+
     },
-    {
-      "title": "Black Clover season 2",
-      "image": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/e108ae17d8d0407417cac40eb52d849a.jpg",
-      "genres": ["Action"]
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T09:28:22.671Z",
+    "__v": 0
+  },
+  {
+    "_id": "68455841ebf68b8862e10717",
+    "title": "Ponyo",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTc3YmM3N2QtODZkMC00ZDE5LThjMTQtYTljN2Y1YTYwYWJkXkEyXkFqcGdeQXVyODEzNjM5OTQ@.jpg",
+    "description": "Watch all episodes of Ponyo in English Sub & Dub online for free. Stream Ponyo in high-quality HD, including the latest released episodes. Stay updated with new episodes available for streaming or download. ",
+    "totalEpisodes": 1,
+    "status": "Movie",
+    "rating": 7.6,
+    "genre": "adventure, animation, comedy, family, and fantasy.",
+    "animeUrl": "ponyo-1",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/129Z47MJucVIpeOuE7SECC46xRND8htlx/preview"
     },
-    {
-      "title": "Hokkaido Gals Are Super Adorable!",
-      "image": "https://m.media-amazon.com/images/M/MV5BYWJhNDUzYWYtMDExOC00M2FiLWJmNDctOGI4NTA4ZTQyODU2XkEyXkFqcGdeQXVyMTUzMTg2ODkz.V1.jpg",
-      "genres": ["Comedy"]
+    "seasons": {
+
     },
-    {
-      "title": "One Piece Film: Red Hindi Dubbed",
-      "image": "https://i.pinimg.com/originals/a5/4d/f1/a54df18f2e2c6965bad37b3ed91de20b.jpg",
-      "genres": ["Adventure"]
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T09:30:41.627Z",
+    "__v": 0
+  },
+  {
+    "_id": "6845589febf68b8862e1071a",
+    "title": "Suzume no Tojimari",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGVkNDc3NjUtNTY5ZS00ZmE0LWE3YzctMDk2OTRlNTdiZWQwXkEyXkFqcGdeQXVyMTU3NDg0OTgx._V1_.jpg",
+    "description": "\"Suzume\" (Japanese: すずめの戸締まり) is a 2022 Japanese animated fantasy adventure film written and directed by Makoto Shinkai. The story follows 17-year-old Suzume, who embarks on a journey to help a mysterious young man close doors that are releasing disasters across Japan. ",
+    "totalEpisodes": 1,
+    "status": "Movie",
+    "rating": 7.6,
+    "genre": "Animation, Drama, Family",
+    "animeUrl": "suzume-no-tojimari",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1faZXdS3J_1eOwMGg71pePlj_dSN6_v42/preview"
     },
-    {
-      "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
-      "image": "https://flxt.tmsimg.com/assets/p19795888_v_v13_ab.jpg",
-      "genres": ["Superhero"]
+    "seasons": {
+
     },
-    {
-      "title": "Into the Forest of Fireflies Light",
-      "image": "https://d3tvwjfge35btc.cloudfront.net/Assets/63/887/L_p0022088763.jpg",
-      "genres": ["Dark Fantasy"]
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-05T00:00:00.000Z",
+    "updatedAt": "2025-06-08T09:32:15.156Z",
+    "__v": 0
+  },
+  {
+    "_id": "6845594eebf68b8862e1071e",
+    "title": "The Garden of Words",
+    "image": "https://th.bing.com/th/id/OIP.9rVs8lsYV6_rgWXYaQXEXgHaLH?w=156&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+    "description": "The Garden of Words is a 2013 Japanese anime drama film written, directed, and edited by Makoto Shinkai.",
+    "totalEpisodes": 1,
+    "status": "Movie",
+    "rating": 7.4,
+    "genre": "Animation, Drama, Family",
+    "animeUrl": "The-Garden-of-Words",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1BNRGnQrk5BVa9_NcJI0zk1nH2QSvv5Rx/preview"
     },
-    {
-      "title": "Patema Inverted hindi Dubbed",
-      "image": "https://m.media-amazon.com/images/M/MV5BYjE1ZDUwNGYtYzM2Ni00NzhiLWFjOTAtMDM4ZDRiNzM5NTkxXkEyXkFqcGdeQXVyMjQ1NjEyNzE@.V1.jpg",
-      "genres": ["Sports"]
+    "seasons": {
+
     },
-    {
-      "title": "A Whisker Away Nakitai Watashi wa Neko wo Kaburu",
-      "image": "https://th.bing.com/th/id/OIP.ZlQ5dVdTotxeKeUHQITz3gHaLH?rs=1&pid=ImgDetMain",
-      "genres": ["Action"]
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T09:35:10.694Z",
+    "__v": 0
+  },
+  {
+    "_id": "684559d0ebf68b8862e10721",
+    "title": "Over The Sky",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWM3MGE4YTYtOTZkMi00NzNmLTllZWMtNDVhMjY3Y2Q4YjE5XkEyXkFqcGdeQXVyODMyNTM0MjM@.jpg",
+    "description": "Over the Sky (Japanese: 君は彼方, Hepburn: Kimi wa Kanata) is a 2020 Japanese animated teen fantasy film written, co-produced, and directed by Yoshinobu Sena.",
+    "totalEpisodes": 1,
+    "status": "Movie",
+    "rating": 5.5,
+    "genre": "Animation, Drama, Family, Animation ,Drama ,Fantasy ,Romance",
+    "animeUrl": "over-the-sky",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/11e4SkNook-SeLuJnd1jVwQXpQJBUDlUB/preview"
     },
-    {
-      "title": "Hello World Fan Dubbed",
-      "image": "https://wallpapercave.com/wp/wp6095792.jpg",
-      "genres": ["Science Fiction"]
+    "seasons": {
+
     },
-    {
-      "title": "A Silent Voice The Movie",
-      "image": "https://m.media-amazon.com/images/M/MV5BZGRkOGMxYTUtZTBhYS00NzI3LWEzMDQtOWRhMmNjNjJjMzM4XkEyXkFqcGdeQXVyMTMxODk2OTU@.V1.jpg",
-      "genres": ["Historical"]
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T09:37:20.857Z",
+    "__v": 0
+  },
+  {
+    "_id": "68455a30ebf68b8862e10724",
+    "title": "Grave of the Fireflies",
+    "image": "https://wallpapers.com/images/featured/grave-of-the-fireflies-hspsik04w8jq52qs.jpg",
+    "description": "Grave of the Fireflies is a 1988 Japanese animated war drama film. It is based on the semi-autobiographical short story by Akiyuki Nosaka.",
+    "totalEpisodes": 1,
+    "status": "Movie",
+    "rating": 8.5,
+    "genre": "Animation ·,Drama ,War",
+    "animeUrl": "grave-of-the-fireflies",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/12cUZlg09X5DXV-q-sPzRjhZsHc-dBaJ9/preview"
     },
-    {
-      "title": "I Want to Eat Your Pancreas",
-      "image": "https://wallpapercave.com/wp/wp6759455.jpg",
-      "genres": ["Fantasy"]
+    "seasons": {
+
     },
-    {
-      "title": "Grave of the Fireflies HD",
-      "image": "https://wallpapers.com/images/featured/grave-of-the-fireflies-hspsik04w8jq52qs.jpg",
-      "genres": ["Action"]
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-05T00:00:00.000Z",
+    "updatedAt": "2025-06-08T09:38:56.498Z",
+    "__v": 0
+  },
+  {
+    "_id": "68455a8eebf68b8862e10728",
+    "title": "Weathering with You",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWQzOTYxMjQtMjRkOC00M2Y5LWExODYtNTFkNmZiOWUwOTE0XkEyXkFqcGc@._V1_.jpg",
+    "description": "Weathering with You (Japanese: 天気の子, Hepburn: Tenki no Ko, lit. 'Child of Weather') is a 2019 Japanese animated romantic fantasy film written and directed by Makoto Shinkai, produced by CoMix Wave Films and distributed by Toho. It follows a 16-year-old high school boy, Hodaka Morishima, who runs away ",
+    "totalEpisodes": 1,
+    "status": "Movie",
+    "rating": 7.5,
+    "genre": "Animation, Drama, Family ,Romance",
+    "animeUrl": "weathering-with-you",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1-BOLKN2valjxYx7tGV9oeRKdmSO97ksx/preview"
     },
-    {
-      "title": "A Condition Called Love",
-      "image": "https://m.media-amazon.com/images/M/MV5BYWRjMzRlZDktYmM0My00ZWQxLWE1MWEtNWJlMGEzMWEyNDNkXkEyXkFqcGdeQXVyMzgxODM4NjM@.V1.jpg",
-      "genres": ["Supernatural"]
+    "seasons": {
+
     },
-    {
-      "title": "No Longer Allowed in Another World",
-      "image": "https://m.media-amazon.com/images/M/MV5BYjEwNWYzYmUtZTlmYi00OTA3LTljOTEtYTVmZjNiNTQyYTAxXkEyXkFqcGc@.V1.jpg",
-      "genres": ["Action"]
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-05T00:00:00.000Z",
+    "updatedAt": "2025-06-08T09:40:30.809Z",
+    "__v": 0
+  },
+  {
+    "_id": "68455b07ebf68b8862e1072b",
+    "title": "Howl’s Moving Castle",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71ULdXjP3XL.jpg",
+    "description": "Howl's Moving Castle is an animation adventure family movie. The movie is about a young woman named Sophie who is cursed with an old body by a spiteful witch",
+    "totalEpisodes": 1,
+    "status": "Movie",
+    "rating": 8.2,
+    "genre": "Animation, Drama, Family",
+    "animeUrl": "howls-moving-castle",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/12HBzIBk29K5qm5WSv5ySaW48AyefoKyD/preview"
     },
-    {
-      "title": "Makeine: Too Many Losing Heroines!",
-      "image": "https://m.media-amazon.com/images/M/MV5BMzA3MWRiZjQtNzlhNS00ZmFjLTgzNWItOTA4ZWFlOWFjMDBmXkEyXkFqcGc@.V1_FMjpg_UX1000.jpg",
-      "genres": ["Sci-Fi"]
+    "seasons": {
+
     },
-    {
-      "title": "Tower Of God Season 1",
-      "image": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/eca729e2c2ae8ab45631c3bd11b81653.jpg",
-      "genres": ["Romance"]
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-05T00:00:00.000Z",
+    "updatedAt": "2025-06-08T09:42:31.295Z",
+    "__v": 0
+  },
+  {
+    "_id": "68455cc7ebf68b8862e1074c",
+    "title": "Your Name",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmEyZjI0M2MtNGFkOC00YTRlLWI0MGQtYTgyODY2MGRhMjc4XkEyXkFqcGc@.jpg",
+    "description": "Inspired by the frequency of natural disasters in Japan, the film depicts the story of high school students Taki Tachibana and Mitsuha Miyamizu, who suddenly begin to swap bodies despite having never met, unleashing chaos on each other's lives",
+    "totalEpisodes": 1,
+    "status": "Movie",
+    "rating": 8.4,
+    "genre": "Horror, Drama, Mystery,Romance",
+    "animeUrl": "your-name",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1-Jx7BZ1s3uruL-QAlfccgt2C1QClRytW/preview"
     },
-    {
-      "title": "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream",
-      "image": "https://m.media-amazon.com/images/M/MV5BNDJjNmNmMmYtNDQ1Zi00ZGEyLTg0NTYtZDEyNGFlYTE0NGVlXkEyXkFqcGc@.V1.jpg",
-      "genres": ["Music"]
+    "seasons": {
+
     },
-    {
-      "title": "Alya Sometimes Hides Her Feelings in Russian",
-      "image": "https://m.media-amazon.com/images/M/MV5BNjg0YTVjNTItZTI1ZC00MDZlLTllYjQtMDY0ODMxNDdlYjY3XkEyXkFqcGc@.V1_FMjpg_UX1000.jpg",
-      "genres": ["Romance"]
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-05T00:00:00.000Z",
+    "updatedAt": "2025-06-08T09:49:59.476Z",
+    "__v": 0
+  },
+  {
+    "_id": "68455d4eebf68b8862e1074f",
+    "title": "Attack on Titan Part 1",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGJhZjkyOTYtOGY5ZC00NjNmLTk4YWUtNjliZWQwY2ZiNzIyXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+    "description": "Attack on Titan (Japanese: 進撃の巨人, Hepburn: Shingeki no Kyojin, lit. 'The Advancing Giant') is a Japanese manga series written and illustrated by Hajime Isayama. ",
+    "totalEpisodes": 1,
+    "status": "Movie",
+    "rating": 8.6,
+    "genre": "Horror, Drama, Mystery, Animation, Action, Adventure",
+    "animeUrl": "attack-on-titan-part-1",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1-wujSCiPgvnP8jx1l1INVc2pnQZPmkIz/preview"
     },
-    {
-      "title": "Twilight Out of Focus : Season Completed",
-      "image": "https://m.media-amazon.com/images/M/MV5BOTZhZWQ3ZGUtZjM2NC00OTViLWI3MzItOWJkNzFkY2ZhMzcwXkEyXkFqcGc@.jpg",
-      "genres": ["Drama"]
-    }
-  ]
-}
+    "seasons": {
+
+    },
+    "likes": 1,
+    "shares": 0,
+    "date": "2025-06-05T00:00:00.000Z",
+    "updatedAt": "2025-06-08T09:52:14.171Z",
+    "__v": 0
+  },
+  {
+    "_id": "68455eacebf68b8862e10753",
+    "title": "Stand by Me Doraemon",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjVhZjRlNzctNTljNC00ZjU3LWI0YzItNTliNzAyMzJhNzZjXkEyXkFqcGdeQXVyMjQ4OTA4MDU@.jpg",
+    "description": "Stand by Me Doraemon (Japanese: STAND BY ME ドラえもん, Hepburn: Sutando Bai Mī Doraemon) is a 2014 Japanese animated science fiction comedy-drama film based on the Doraemon manga series and directed by Ryūichi Yagi and Takashi Yamazaki. ",
+    "totalEpisodes": 1,
+    "status": "Movie",
+    "rating": 7.3,
+    "genre": "Horror, Drama, Mystery,",
+    "animeUrl": "stand-by-me",
+    "videoIds": {
+      "1": "https://geo.dailymotion.com/player.html?video=x9g4v82"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-05T00:00:00.000Z",
+    "updatedAt": "2025-06-08T09:58:04.917Z",
+    "__v": 0
+  },
+  {
+    "_id": "68455f52ebf68b8862e10757",
+    "title": "Stand by Me Doraemon 2",
+    "image": "https://jfdb.jp/data/photo/movie/ac/cc/d3/89/6901925aec4ddb80d309a86ffff18d44_640.jpg",
+    "totalEpisodes": 1,
+    "status": "Movie",
+    "rating": 8.6,
+    "genre": " Drama, Mystery,",
+    "animeUrl": "stand-by-me-2",
+    "videoIds": {
+      "1": "https://geo.dailymotion.com/player.html?video=x9ei6hg"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-05T00:00:00.000Z",
+    "updatedAt": "2025-06-08T10:00:50.378Z",
+    "__v": 0,
+    "description": "Stand by Me Doraemon (Japanese: STAND BY ME ドラえもん, Hepburn: Sutando Bai Mī Doraemon) is a 2014 Japanese animated science fiction comedy-drama film based on the Doraemon manga series and directed by Ryūichi Yagi and Takashi Yamazaki. "
+  },
+  {
+    "_id": "68455feaebf68b8862e1075c",
+    "title": "Wolf Children",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTk0NzA1N2QtYWQ2ZS00MDBlLWE0NWEtZWE3OGRhOTc1YTk5XkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_.jpg",
+    "description": "Wolf Children – After her werewolf lover unexpectedly dies in an accident while hunting for food for their children, a young woman must find ways to raise the werewolf son and daughter that she had with him while keeping their trait hidden from society.",
+    "totalEpisodes": 1,
+    "status": "Movie",
+    "rating": 8.6,
+    "genre": "Animation, Drama, Family",
+    "animeUrl": "wolf-children",
+    "videoIds": {
+      "1": "https://geo.dailymotion.com/player.html?video=x91rn4w"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T10:03:22.821Z",
+    "__v": 0
+  },
+  {
+    "_id": "68456078ebf68b8862e10762",
+    "title": "Attack on Titan Part 2",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjU5ZThjMjgtOGExNi00ZmUzLWFiN2QtNTQ3YmYwN2ExNjU1XkEyXkFqcGdeQXVyNDQyNzIwNDQ@._V1_.jpg",
+    "description": "Attack on Titan (Japanese: 進撃の巨人, Hepburn: Shingeki no Kyojin, lit. 'The Advancing Giant') is a Japanese manga series written and illustrated by Hajime Isayama. ",
+    "totalEpisodes": 1,
+    "status": "Movie",
+    "rating": 9.1,
+    "genre": "Animation, Drama, Family",
+    "animeUrl": "attack-on-titan-part-2",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1-LU429ZKwKu9ZuG5oY14m5QKERXw8XHh/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T10:05:44.600Z",
+    "__v": 0
+  },
+  {
+    "_id": "68456b93ebf68b8862e107a0",
+    "title": "Quality Assurance In Another World",
+    "image": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/quality_assurance_in_another_world___poster.png",
+    "description": "Quality Assurance in Another World (Japanese: この世界は不完全すぎる, Hepburn: Kono Sekai wa Fukanzen Sugiru) is a Japanese manga series written and illustrated by Masamichi Sato. The story is set in the world of a virtual reality computer game, where a character named Makoto Haga",
+    "totalEpisodes": 13,
+    "status": "S1 Completed",
+    "rating": 6.5,
+    "genre": "Animation, Drama, Family",
+    "animeUrl": "quality-assurance-in-another-world",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1VAxb-PMtFaiRgF80OObYSre7vRtEt-Be/preview",
+      "2": "https://drive.google.com/file/d/1rq-w0ZrxfR6LyGChI-MuB3ki2L5D5CnP/preview",
+      "3": "https://drive.google.com/file/d/1IIOQehGP8WJRp9SBecHERbN89guOBKyL/preview",
+      "4": "https://drive.google.com/file/d/1pFs4BCLqQLda1prMFg9Zj9wJsABR1PDZ/preview",
+      "5": "https://drive.google.com/file/d/1e1esE7W4-Vj7PHfm4IgxRRcCU8nHyvmE/preview",
+      "6": "https://drive.google.com/file/d/1Jg2rHVTkOqOAN7ehd2ahvPXeR3N2JDrT/preview",
+      "7": "https://drive.google.com/file/d/1VRVxlNo2WJFTjCGHmC0DIkW7HVjvwVpe/preview",
+      "8": "https://drive.google.com/file/d/1J2M-JqO8Daf9ktvH_AyDuUXVHAeJTXrq/preview",
+      "9": "https://drive.google.com/file/d/1A3AAxx0HUSySqHe5CbyprDYzWumBXxE7/preview",
+      "10": "https://drive.google.com/file/d/10UMESV5UdU1gllFUAvrLe8fPYT7P5BCe/preview",
+      "11": "https://drive.google.com/file/d/1frmBK_7GdFlgYBG5LqCFWNBptvbGaZIV/preview",
+      "12": "https://drive.google.com/file/d/1f6fwi_ArBqAWztorhfJAE4zMtjqT2Nsl/preview",
+      "13": "https://drive.google.com/file/d/1kEEXOYs1XURHSo15Y4IUjtPiUllk2jgM/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 1,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T10:53:07.573Z",
+    "__v": 0
+  },
+  {
+    "_id": "68456c6cebf68b8862e107a4",
+    "title": "The Strongest Magician in the Demon Lord’s Army was a Human",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2MxMjM2NWItMmVlYy00ZGRjLWE1NjAtYTY4MTk3NzY2ZGQ1XkEyXkFqcGc@.jpg",
+    "description": "The Strongest Magician in the Demon Lord's Army Was a Human (Japanese: 魔王軍最強の魔術師は人間だった, Hepburn: Maō-gun Saikyō no Majutsushi wa Ningen Datta) is a Japanese light novel series written by Ryousuke Hata and illustrated by Kuma. ",
+    "totalEpisodes": 6,
+    "status": "S1 Completed",
+    "rating": 6.4,
+    "genre": "Horror, Drama, Mystery,",
+    "animeUrl": "t-s-m",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1-VeLs7QQtG8MwYP-bibj0IVE-aRmr1Aw/preview",
+      "2": "https://drive.google.com/file/d/1-WOt0Xp5qPvzFZ_6W66khskLyD_LKTuE/preview",
+      "3": "https://drive.google.com/file/d/1-_IEp9hsUkmvNGV0-wqMGsEEgz-0cWZg/preview",
+      "4": "https://drive.google.com/file/d/1-b21rOMrgDhQ2QU96tD-zGMqBhdDCyhz/preview",
+      "5": "https://drive.google.com/file/d/1-aoUf4VD8sINDOzYtzuI7_SlpQ_MOffp/preview",
+      "6": "https://drive.google.com/file/d/1-b4DBRo3GMBKi4jEXg-Ua18W0_qOF-pR/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T10:56:44.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "68456d08ebf68b8862e107a7",
+    "title": "Days with My Stepsister",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDU2MWNiYWMtMjIxZS00ZTVlLTkxZDAtYzA5YzFhODBhODAyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "Days with My Stepsister (義妹生活, Gimai Seikatsu) is a Japanese mixed-media project created by Ghost Mikawa. It started with a YouTube channel created in April 2020, with its first video …",
+    "totalEpisodes": 5,
+    "status": "S1 Completed",
+    "rating": 7.1,
+    "genre": "Drama, love",
+    "animeUrl": "days-with-my-stepsister",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1-v-zLnORy7TeHN1L-uEVixaelQmi77wN/preview",
+      "2": "https://drive.google.com/file/d/14Qw9YMsTfB4jBWyoVk_En0_lrZjJhYMo/preview",
+      "3": "https://drive.google.com/file/d/14R_QAmvTCYxPrz1wzGgyAk9kkrg2Kowo/preview",
+      "4": "https://drive.google.com/file/d/14zCOYS5OEU6sJzno6Eo_fysd9RjBqaEl/preview",
+      "5": "https://drive.google.com/file/d/14pgRTbH0daNdNL-PGyOlGEEBSMOKJpCD/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T10:59:20.405Z",
+    "__v": 0
+  },
+  {
+    "_id": "68456e0febf68b8862e107ab",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGM2MzA5YzYtODc0Ni00ZjU4LWI4ZmUtZGJjNGU0ODY1MGJkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+    "description": "Mushoku Tensei is a Japanese light novel series written by Rifujin na Magonote and illustrated by Shirotaka. The story revolves around a 34-year-old Japanese man who dies and is reincarnated into a fantastical world with magic and swords. The series is also known as \"Jobless Reincarnation\".",
+    "totalEpisodes": 23,
+    "status": "S1 Completed",
+    "rating": 8.3,
+    "genre": "Animation, Action, Adventure",
+    "animeUrl": "mushoku-tensei",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1TguUdl78BITsa4PfAw1D0WaVNe0cV978/preview",
+      "2": "https://drive.google.com/file/d/1OJgkXrQAnvLYw_Tn7a4LGkLnIcfBaYxx/preview",
+      "3": "https://drive.google.com/file/d/1k2BqMnhQ2-rS6atA4atT3eci-cG_1O9p/preview",
+      "4": "https://drive.google.com/file/d/1v_1yjcEzgU726kYRsCeDSLi-D1tapGzQ/preview",
+      "5": "https://drive.google.com/file/d/1heaBzdn9NByw_4D3i7kLKJ4btNHGG2xj/preview",
+      "6": "https://drive.google.com/file/d/1-PxSLoXHn8RRj2w7djiGOnMtFUCalwxU/preview",
+      "7": "https://drive.google.com/file/d/14eOgPJVlvfqUwRY6hOEjxrnYgdJwF-r7/preview",
+      "8": "https://drive.google.com/file/d/1FNTXFh1zeHByQNzQSOKAVF-yn7Tz5-sQ/preview",
+      "9": "https://drive.google.com/file/d/1YL_LkgnLJ1_uCxSI9hN1sAnlbPwGJBMd/preview",
+      "10": "https://drive.google.com/file/d/1QtDqVcfCPHhglzMp8p0SF0ppIwQ2bneq/preview",
+      "11": "https://drive.google.com/file/d/16BA9Z217fsEV17b5aGO65RTNyGPgll9N/preview",
+      "12": "https://drive.google.com/file/d/1i6-HxoYMwspRcTM_-UI6OsUhazV8Kjuc/preview",
+      "13": "https://drive.google.com/file/d/1vCoXMd2x2yGd-w-coupFdRtgv3CTqcWk/preview",
+      "14": "https://drive.google.com/file/d/14TSlUWIDfLeDIJRyIs1Con2J46DAz6CC/preview",
+      "15": "https://drive.google.com/file/d/1WW7MbTP5boYN4ia8kyXka15E9xsSskJm/preview",
+      "16": "https://drive.google.com/file/d/1HzHwu46V8J1d91aQyi1_QW1sTjJ1qA9W/preview",
+      "17": "https://drive.google.com/file/d/1x3kjZvggUrLmo9YsYbbjr2xvZddvvblg/preview",
+      "18": "https://drive.google.com/file/d/1a-CktYZ5xtZqF94GZAeMJQuU4VMvNmVE/preview",
+      "19": "https://drive.google.com/file/d/1LN4pEWAZC0x7-bffsqboqA7ktZriC8tT/preview",
+      "20": "https://drive.google.com/file/d/1Yot2-M_6fhB8bbsUGOWLSTLcogP0ynBe/preview",
+      "21": "https://drive.google.com/file/d/1QvfLnb-3Y9beDl_yMb6x8EwqHkOizSh0/preview",
+      "22": "https://drive.google.com/file/d/1FEEsUimcWXRc4fRNRZhSBq7X2Ua9fPw9/preview",
+      "23": "https://drive.google.com/file/d/1wLLdIguo2YGd93JoSmio9-H_oVb84xca/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T11:03:43.263Z",
+    "__v": 0
+  },
+  {
+    "_id": "68456effebf68b8862e107b1",
+    "title": "VTuber Legend",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDJjNmNmMmYtNDQ1Zi00ZGEyLTg0NTYtZDEyNGFlYTE0NGVlXkEyXkFqcGc@._V1_.jpg",
+    "description": "VTuber Legend: How I Went Viral After Forgetting to Turn Off My Stream[a], or VDen[b] for short, is a Japanese light novel series written by Nana Nanato and illustrated by Siokazunoko.",
+    "totalEpisodes": 5,
+    "status": "S1 Completed",
+    "rating": 4.1,
+    "genre": "Comedy,",
+    "animeUrl": "vtuber-legend",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1bnueBGxPG2RsaKA3oyB1S0qib9bMhXDx/preview",
+      "2": "https://drive.google.com/file/d/1L1kiOlBfZoYavNO9y2redfQHGn9t3HKU/preview",
+      "3": "https://drive.google.com/file/d/1xuLIbBN6PnlORxGaPLRG3Ps8rdT3EPcZ/preview",
+      "4": "https://drive.google.com/file/d/1ZWQjnvsQUeuIOR6oXnJEnH-80W2nBMW5/preview",
+      "5": "https://drive.google.com/file/d/1APjlElR7780zKZhJ5pprS7wtUni9FaFU/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T11:07:43.192Z",
+    "__v": 0
+  },
+  {
+    "_id": "68456fb6ebf68b8862e107b4",
+    "title": "No Longer Allowed in Another World",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjEwNWYzYmUtZTlmYi00OTA3LTljOTEtYTVmZjNiNTQyYTAxXkEyXkFqcGc@._V1_.jpg",
+    "description": "No Longer Allowed in Another World (Japanese: 異世界失格, Hepburn: Isekai Shikkaku) is a Japanese manga series written by Hiroshi Noda [ja] and illustrated by Takahiro Wakamatsu. It has been serialized on Shogakukan's Yawaraka Spirits [ja] website since October 2019. An anime television series …",
+    "totalEpisodes": 4,
+    "status": "S1 Completed",
+    "rating": 4.5,
+    "genre": " Animation ,Adventure ,Comedy ,Fantasy",
+    "animeUrl": "no-longer-allowed-in-another-world",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1i9_NUNwbQu-z_XAP-2uJDwxSc7LDAILq/preview",
+      "2": "https://drive.google.com/file/d/1dGi9LU2_Om4pQdQA4RqvIWC_gfoWh4Y0/preview",
+      "3": "https://drive.google.com/file/d/1_-EwJjBcvJOJOPq2VNGC8zG0eG-MgEe7/preview",
+      "4": "https://drive.google.com/file/d/1d1zO6VB5K9FAr1zAnWEiJWgCC5AH3FS-/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T11:10:46.914Z",
+    "__v": 0
+  },
+  {
+    "_id": "68457048ebf68b8862e107b8",
+    "title": "Makeine: Too Many Losing Heroines!",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzA3MWRiZjQtNzlhNS00ZmFjLTgzNWItOTA4ZWFlOWFjMDBmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "\"Too Many Losing Heroines!\" (Japanese: 負けヒロインが多すぎる！, Hepburn: Make Hiroin ga Ōsugiru!), also known as \"Makeine\" (マケイン), is a Japanese light novel series written by Takibi Amamori and illustrated by Imigimuru. The story takes place in Toyohashi, Aichi, and features heroines who navigate awkward setbacks in their quest for love. \n",
+    "totalEpisodes": 4,
+    "status": "S1 Completed",
+    "rating": 8.1,
+    "genre": "Animation ,Comedy ,Drama ,Romance",
+    "animeUrl": "makeine-too-many-losing-heroines",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1eFSiUEvKe93EDmCFt1hKzPNI9vMGa78A/preview",
+      "2": "https://drive.google.com/file/d/14dZRBobb5d60RcR0qf1BA7xv9TsUlxh3/preview",
+      "3": "https://drive.google.com/file/d/1K4SYU-78WTV-TtyEfo3gmhmOsi7BnM_N/preview",
+      "4": "https://drive.google.com/file/d/1UQfJCx0aj8SH9KCGyILZYt6Mtw2xoELt/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T11:13:12.445Z",
+    "__v": 0
+  },
+  {
+    "_id": "684570d1ebf68b8862e107bb",
+    "title": "Alya Sometimes Hides Her Feelings in Russian",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjg0YTVjNTItZTI1ZC00MDZlLTllYjQtMDY0ODMxNDdlYjY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "Alya Sometimes Hides Her Feelings in Russian, is a Japanese light novel series written by SunSunSun and illustrated by Momoco. It was originally published online as two short stories on the novel publishing website Shōsetsuka ni Narō on May 6 and May 27, 2020, respectively, before being acquired by Kadokawa Shoten",
+    "totalEpisodes": 5,
+    "status": "S1 Completed",
+    "rating": 7.2,
+    "genre": " Animation ,Comedy ,Romance",
+    "animeUrl": "alya-sometimes-hides-her-feelings-in-russian",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1QBI7X-CdP5vAOhopJ-DOeDV3f2Dc-NOc/preview",
+      "2": "https://drive.google.com/file/d/1QDako_18tp53uaaEmHU3iTMKvoaLBBjp/preview",
+      "3": "https://drive.google.com/file/d/1wiKMKiVa0xIrkN4w1FtEhd5uJTAvgSi0/preview",
+      "4": "https://drive.google.com/file/d/1FjA0hjqknxdazRKapn3uFXuNSzJHrvvm/preview",
+      "5": "https://drive.google.com/file/d/1Mps7queMqEZAfLqhmeNxs-3uBCWjKqiO/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T11:15:29.636Z",
+    "__v": 0
+  },
+  {
+    "_id": "684571daebf68b8862e107bf",
+    "title": "Why Does Nobody Remember Me in This World?",
+    "image": "https://m.media-amazon.com/images/M/MV5BNThkMmVhZDItZWUyMC00NmYzLWE5MDEtNzhjOWM1NDE3ODVjXkEyXkFqcGc@._V1_.jpg",
+    "description": "After the great war ended with humanity's victory, the world suddenly gets \"overwritten\" right before the eyes of a boy named Kai.",
+    "totalEpisodes": 4,
+    "status": "S1 Completed",
+    "rating": 6.2,
+    "genre": " Animation ,Action ,Adventure ,Fantasy ,Romance ,Sci-Fi",
+    "animeUrl": "why-does-nobody-remember-me-in-this-world",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1iY0VRIBx6jM3lV-V1_0pDtxEFFzcKYv0/preview",
+      "2": "https://drive.google.com/file/d/1MtUsNY5FPUNiDu2jxM3qpmANXnWMKzsY/preview",
+      "3": "https://drive.google.com/file/d/10DJ64WC_64ubO9AHk2K8TShwqa9-hXRd/preview",
+      "4": "https://drive.google.com/file/d/1xKr4hT9VHI_H6rj6aJlphr8Y_aSM7chM/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T11:19:54.643Z",
+    "__v": 0
+  },
+  {
+    "_id": "68457285ebf68b8862e107c3",
+    "title": "Tower of God S2",
+    "image": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/eca729e2c2ae8ab45631c3bd11b81653.jpg",
+    "description": "Reach the top, and everything will be yours. At the top of the tower exists everything in this world, and all of it can be yours.",
+    "totalEpisodes": 5,
+    "status": "S1 Completed",
+    "rating": 7.5,
+    "genre": "Animation ,Action ,Adventure ,Drama ,Fantasy ,Mystery",
+    "animeUrl": "tower-of-god-s2",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1-gTMNGjqCS1cu_NA6AW4H49eSczGdnOF/preview",
+      "2": "https://drive.google.com/file/d/1-h2cDLS_-NzkL49j5rI3gKPm32nHw4rd/preview",
+      "3": "https://drive.google.com/file/d/1-kVm_tlPsVLUx13pMmalEb8o9gL6Q0vU/preview",
+      "4": "https://drive.google.com/file/d/1-l8HhMtHmb9cCgmXt9xUT7F0exeRaRei/preview",
+      "5": "https://drive.google.com/file/d/1-ngWjBnGyVPrY9N3oxv3qtvIjtIOx4Wv/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T11:22:45.072Z",
+    "__v": 0
+  },
+  {
+    "_id": "684572f6ebf68b8862e107c6",
+    "title": "Fairy Tail: 100 Years Quest",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjJlZTI4MzEtNTE3MS00ZTM4LWIwZTktMDg2ODc5MjcwYmQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "Lucy, an aspiring Celestial Wizard, becomes a friend and ally to powerful wizards Natsu, Gray, and Erza, who are part of the (in)famous wizard guild, Fairy Tail.",
+    "totalEpisodes": 2,
+    "status": "S1 Completed",
+    "rating": 7.9,
+    "genre": " Animation ,Action ,Adventure ,Comedy ,Family ,Fantasy",
+    "animeUrl": "fairy-tail",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1DqmFxlgfYpzfl2HOZf07xO5lIIxCDXHs/preview",
+      "2": "https://drive.google.com/file/d/1LECo1iRRGWIpms1u4WOvMVAwgWyoF_cz/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T11:24:38.289Z",
+    "__v": 0
+  },
+  {
+    "_id": "684573d9ebf68b8862e107ca",
+    "title": "Mushoku Tensei: Jobless Reincarnation S2",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWU1ZjJiNDYtMDcxNi00YzAyLWJhNzYtOTA3NGRiNWY2YTJhXkEyXkFqcGc@._V1_.jpg",
+    "description": "A 34-year-old underachiever gets run over by a bus, but his story isn't over. Reincarnated as an infant, he'll embark on an epic adventure.",
+    "totalEpisodes": 13,
+    "status": "S1 Completed",
+    "rating": 8.2,
+    "genre": "Animation ,Action ,Adventure ,Drama ,Fantasy",
+    "animeUrl": "mushoku-tensei-s2",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1V7J4F_Delnu6jRYba_zgkrOp4xbRlCkB/preview",
+      "2": "https://drive.google.com/file/d/1TIryvOq_RftErLupI9aYPGGMAfbnIb98/preview",
+      "3": "https://drive.google.com/file/d/1_U8-3j381rfNnYm12M0rpa7uCKlCqQtf/preview",
+      "4": "https://drive.google.com/file/d/1g6N_F8LA3DoteEmKdju6OOg6uMr07evT/preview",
+      "5": "https://drive.google.com/file/d/1JK-rAxdleMzcrDla86eRn8-Mz5emnUjK/preview",
+      "6": "https://drive.google.com/file/d/1BNmGmrbfJFNLkcq87tNEam9rl9Eiyn-m/preview",
+      "7": "https://drive.google.com/file/d/1ZAD4esDUGu-2r0N3-sn9xpyTG3PO3jga/preview",
+      "8": "https://drive.google.com/file/d/1M6JFPMpVuWEi5IsyZdp66ZaSjFpmu78V/preview",
+      "9": "https://drive.google.com/file/d/1DzxvHPVBiD1G6nhdWrDG9sLp68Dvwopv/preview",
+      "10": "https://drive.google.com/file/d/1PM7OS-yHHCY55i6KL1L8hXnI0xN7xS5L/preview",
+      "11": "https://drive.google.com/file/d/1kSmYpFRZXcrLBZihrzjUV4MdFftB87Ks/preview",
+      "12": "https://drive.google.com/file/d/1VdMTcOZoJgVsS4bnwZkSKOdRyXTAvLA7/preview",
+      "13": "https://drive.google.com/file/d/1Xt41Nv5VwVN8C7edeuuGSNQ4k6L_Ssav/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T11:28:25.094Z",
+    "__v": 0
+  },
+  {
+    "_id": "6845745bebf68b8862e107cd",
+    "title": "Black Summoner",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmU2ZGFkY2MtYTVlOS00ZmExLThjMzMtY2MwMWFiYTBmMDA3XkEyXkFqcGc@._V1_.jpg",
+    "description": "Kelvin reincarnates in another world with goddess Melfina as his guide, having traded memories for summoning magic skills. To avoid attention, he begins an adventurer's life.",
+    "totalEpisodes": 6,
+    "status": "S1 Completed",
+    "rating": 7.1,
+    "genre": "Animation ,Action ,Fantasy",
+    "animeUrl": "black-summoner",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1-fllDEVX32Dbv2v0yDNnudXCbPvI2U9k/preview",
+      "2": "https://drive.google.com/file/d/1-h4kkbrToXMyKQoXnhLtwAi6SPJgNc0W/preview",
+      "3": "https://drive.google.com/file/d/1-heopV7uV098L0DiJr2QgknBbDumrdp0/preview",
+      "4": "https://drive.google.com/file/d/1-jSg35oPpkTuxxJp8YAEA3XSyM-sJvSY/preview",
+      "5": "https://drive.google.com/file/d/1-lACe5W3yrPwqHugpmcKpqd5Esjvov3s/preview",
+      "6": "https://drive.google.com/file/d/1-ueB8EyWHxYxzWGqv5p1h92zgZ1k51Qk/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T11:30:35.821Z",
+    "__v": 0
+  },
+  {
+    "_id": "6845757eebf68b8862e107d2",
+    "title": "That Time I Got Reincarnated as a Slime S3",
+    "image": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/ebf137866cc45a05c7401148fe1d6d20.jpg",
+    "description": "Average 37-year-old Minami Satoru dies and is reincarnated as the most unremarkable creature imaginable-a slime.",
+    "totalEpisodes": 8,
+    "status": "S1 Completed",
+    "rating": 8.4,
+    "genre": "Animation ,Action ,Adventure ,Comedy ,Fantasy",
+    "animeUrl": "that-time-i-got-reincarnated-as-a-slime-s3",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/11VkqARbJEnMMpeENRETDkcD_FD2S92Cp/preview",
+      "2": "https://drive.google.com/file/d/11YPcHcLcbDgFhXNsEXrHNLcPKB5tNcAk/preview",
+      "3": "https://drive.google.com/file/d/11_IKBBEfrRG8xHvg9cds64TKbqFcGx87/preview",
+      "4": "https://drive.google.com/file/d/11a15Iy6XX8-DRvJv24J_g7noQAKxg7gt/preview",
+      "5": "https://drive.google.com/file/d/11aRAHKBbLds5alxqKEAOH-9kC0W3DNjE/preview",
+      "6": "https://drive.google.com/file/d/11h7lZ7lAhFnbeStkakN1SbeFC1_9bQ0Q/preview",
+      "7": "https://drive.google.com/file/d/11u0Ty2i8iS7_BwNJBo3msNm_Y9lT1ing/preview",
+      "8": "https://drive.google.com/file/d/120Zl2Lf8FCQ127a7MejO-hLVmw6qLHgI/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T11:35:26.629Z",
+    "__v": 0
+  },
+  {
+    "_id": "68457658ebf68b8862e107d6",
+    "title": "Wistoria: Wand and Sword",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWU1OTgxYTMtZTViMy00MmU0LTg2ZGMtZDVkYTNlYzI4NWRjXkEyXkFqcGc@._V1_.jpg",
+    "description": "A teen without magical powers enrolls in a magic academy. He can't use a wand, but his skill with a sword fuels his drive to keep a promise to a friend.",
+    "totalEpisodes": 4,
+    "status": "S1 Completed",
+    "rating": 7.5,
+    "genre": "Animation ,Action ,Adventure ,Drama ,Fantasy",
+    "animeUrl": "wistoria-Wand-Sword",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1S9c6uamn26H4p-xdP1OrCIwKnO4aUQAy/preview",
+      "2": "https://drive.google.com/file/d/1E25oJSC_Q2qx5_RLHb-QWuQGjQXds0n9/preview",
+      "3": "https://drive.google.com/file/d/1EQEZBw3R3lCo7htrU1fU1jOPyR1citan/preview",
+      "4": "https://drive.google.com/file/d/1jXGb9N9_Jsh72n--Zns6ZE6gByONSg46/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T11:39:04.539Z",
+    "__v": 0
+  },
+  {
+    "_id": "6845776cebf68b8862e107da",
+    "title": "Assassination Classroom S2",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmZkMmQwN2EtNmFmZi00ZTBhLWEwODktNmYzMGI1NGJjNGRmXkEyXkFqcGc@._V1_.jpg",
+    "description": "A powerful creature claims that within a year, Earth will be destroyed by him, but he offers mankind a chance by becoming a homeroom teacher where he teaches his students about how to kill him. An assassination classroom begins.",
+    "totalEpisodes": 25,
+    "status": "S1 Completed",
+    "rating": 7.9,
+    "genre": "Animation ,Action ,Comedy ,Family ,Fantasy ,Sci-Fi",
+    "animeUrl": "assassination-classroom-s2",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1DvuPLdrI-0u3ww0WgBp_Xjw_nl0RSbGR/preview",
+      "2": "https://drive.google.com/file/d/1YtHx9zuiV_jtsWPeXoqUVa3WjaWrDG0-/preview",
+      "3": "https://drive.google.com/file/d/155QyLNpoDslRS8bYGqcevUiaerlxfWBo/preview",
+      "4": "https://drive.google.com/file/d/1LB-WcBsovtrGO6-aAzqB6siUEwPpDssV/preview",
+      "5": "https://drive.google.com/file/d/1iKUPe_mKhnJI3eeimD6HzJiEYHB6Sf6R/preview",
+      "6": "https://drive.google.com/file/d/1Op-rimo1SDFDsDocMDdYaL0v3lupIAFC/preview",
+      "7": "https://drive.google.com/file/d/1cKX1HUKvswki7autLShQFBhugzbWZeGt/preview",
+      "8": "https://drive.google.com/file/d/1QHOC6rq1XqtzXCr88iy9_tIYxgjr5IcQ/preview",
+      "9": "https://drive.google.com/file/d/1TuWWFd3czucyidbaA9QT2qZPa8q-v6kS/preview",
+      "10": "https://drive.google.com/file/d/1alaTElIqtjcPUBhiJpDk9gFnM-npTUHf/preview",
+      "11": "https://drive.google.com/file/d/1bKLBb5uPc_m3WDaFA_hNcQhgY0Tn0O8h/preview",
+      "12": "https://drive.google.com/file/d/1llBbhc5V-t1LvZ6ZOgXee36eQ5I5U1A4/preview",
+      "13": "https://drive.google.com/file/d/1rdJ22_RMxkPfT_1EWevzWesucLYC4dY2/preview",
+      "14": "https://drive.google.com/file/d/1RfAMP-OpiInDvmLtLcQRS5XcRfiO559g/preview",
+      "15": "https://drive.google.com/file/d/1Oi0nwA1kX4WdGN_Y0v-ElmQ272Yeh5OW/preview",
+      "16": "https://drive.google.com/file/d/1EaiNBbhnxdjpZSO0cZ8u_Vg-FVWx2aKe/preview",
+      "17": "https://drive.google.com/file/d/16586ABBHpSRNW3ov88moODUYUeuezue1/preview",
+      "18": "https://drive.google.com/file/d/1GrLLCfaI_vaKFaHemxWf3jOsGPBkiw79/preview",
+      "19": "https://drive.google.com/file/d/15KE6fc4apOLLVEYRum7LnyQmnLm_DObQ/preview",
+      "20": "https://drive.google.com/file/d/14-KvIY1dVqfm2CLGICVNJshgxi8mVGsu/preview",
+      "21": "https://drive.google.com/file/d/1O-hXcaoQwQ8eiwK-m7P7_9jRJ58j_Ghl/preview",
+      "22": "https://drive.google.com/file/d/1JALcRKlyx2hXBqOSK5tUj4rwDqKQYgbC/preview",
+      "23": "https://drive.google.com/file/d/17OFySF4fJNl0A_n2AKrPqdIRaceCr_U3/preview",
+      "24": "https://drive.google.com/file/d/1VNqNiIaeT9cyNXlodilmdE4d1X93Ejfh/preview",
+      "25": "https://drive.google.com/file/d/1YA9iJfs7eigieoPi1j1hisNHgvd2y7BB/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T11:43:40.199Z",
+    "__v": 0
+  },
+  {
+    "_id": "684577eaebf68b8862e107dd",
+    "title": "Twilight Out of Focus",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTZhZWQ3ZGUtZjM2NC00OTViLWI3MzItOWJkNzFkY2ZhMzcwXkEyXkFqcGc@.jpg",
+    "description": "Two high school boys, Mao and Hisashi, set rules to maintain boundaries while sharing a dorm room. But navigating friendship, sexuality and privacy proves complicated as they learn some things can't be easily promised.",
+    "totalEpisodes": 5,
+    "status": "S1 Completed",
+    "rating": 6.9,
+    "genre": " Animation ,Romance",
+    "animeUrl": "twilight-out-of-focus",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/15cIhl7XuY8LgFRlAYBcCmP-PHN9CnFXw/preview",
+      "2": "https://drive.google.com/file/d/15c1GRYnLUSHtRqwRYRhFrNGBjM99j--e/preview",
+      "3": "https://drive.google.com/file/d/15VRzfhl6Uy8ln2GAJr53op25VbX44kMp/preview",
+      "4": "https://drive.google.com/file/d/15TjLRbRY0rj7aHgtbmn25fyCwCZqveH8/preview",
+      "5": "https://drive.google.com/file/d/15Iy9alFh1kUkrt2SU-OkwkbGxatTod-l/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T11:45:46.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "68457e2cebf68b8862e10821",
+    "title": "Frieren: Beyond Journey's End",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjVjZGU5ZTktYTZiNC00N2Q1LThiZjMtMDVmZDljN2I3ZWIwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "description": "Elf mage Frieren and her fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her?",
+    "totalEpisodes": 28,
+    "status": "S1 Completed",
+    "rating": 8.9,
+    "genre": " Animation ,Romance",
+    "animeUrl": "frieren-beyond-journey-s-end",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1aVFDuw9_O_ahtsrsQsZcgljMMVy-uNaP/preview",
+      "2": "https://drive.google.com/file/d/1RhPpeGblF2gcFt2uYwDVlggkWa8GTVdJ/preview",
+      "3": "https://drive.google.com/file/d/1o_llwz9orqwyKh9cQsin_IrnRw2e93eE/preview",
+      "4": "https://drive.google.com/file/d/1K7WkZoO9oA7rLgiz4dTwV6fb2CRAo5oT/preview",
+      "5": "https://drive.google.com/file/d/1qVYVC9xrt8YgwfrvQxXHCpKv0yGoaO_2/preview",
+      "6": "https://drive.google.com/file/d/1l5j3fugMEhklWKKw8GbsQljnE87G33gP/preview",
+      "7": "https://drive.google.com/file/d/1DAYFwpep9VDfUApmdljEOlJ2bPxfSqvV/preview",
+      "8": "https://drive.google.com/file/d/1WO5-Yg_RmOIIVYtEvFHLoFbq5Ptn7UlY/preview",
+      "9": "https://drive.google.com/file/d/1y3hKqpiprybYiYvn1sjNZ2jh2T_dbz8Q/preview",
+      "10": "https://drive.google.com/file/d/1y1r39pgnPQa9AklMPM4QzaM3kAKXDbBa/preview",
+      "11": "https://drive.google.com/file/d/1qPA9OI-PbH4bTNej5aaLT1zW3hNakfP7/preview",
+      "12": "https://drive.google.com/file/d/1_vEKcl8w0mYd3TgWt60OQj4PTkh0n0pS/preview",
+      "13": "https://drive.google.com/file/d/1NYEL7nX3QQUl6VLEo9rpPvP-QA41MDq7/preview",
+      "14": "https://drive.google.com/file/d/1wVj0v9LtBDncjfg2leWXwPcEOrSFex0d/preview",
+      "15": "https://drive.google.com/file/d/1lJ1h4kA9BmFwe98ZG7B-LN0tIdVXlCUO/preview",
+      "16": "https://drive.google.com/file/d/1KiRRpvAQFfTo16RzRZ_jDF3cmbq5eX0k/preview",
+      "17": "https://drive.google.com/file/d/1_Nmhl1AJXEuAThpa22mXIjK2qLeBz6Iy/preview",
+      "18": "https://drive.google.com/file/d/1SBZTjei9TcsE8DIfkowlc77BhG3g6Ix_/preview",
+      "19": "https://drive.google.com/file/d/1XvX-xYsb3xiDVnqKfVxEXuB-GtE32hZg/preview",
+      "20": "https://drive.google.com/file/d/1txHKWEVn6QCJLClHS6OO98aCjrPI3E_C/preview",
+      "21": "https://drive.google.com/file/d/1dVlKG-61ZeXpVHvpsEqfTbsWbzzMe0X-/preview",
+      "22": "https://drive.google.com/file/d/1haXcISfKVnluQiLeLFe6zM7lKXAXcz6x/preview",
+      "23": "https://drive.google.com/file/d/1kchIdgjvBdzI8Cys6mvRyxCC6hl56pe2/preview",
+      "24": "https://drive.google.com/file/d/1u-AcFblqF0yl_xb56GO-Dvu1sm9IgYIE/preview",
+      "25": "https://drive.google.com/file/d/1pe0VSTT5qG3APZsWBkkWDdn9UwBM1PU7/preview",
+      "26": "https://drive.google.com/file/d/1V3VAOly1TJxI7QC_AN_MuyofDcRtwJXI/preview",
+      "27": "https://drive.google.com/file/d/1hRIBSphMgg3PHWdSxxJj8cTXmjsvDGkl/preview",
+      "28": "https://drive.google.com/file/d/1ezb50j_HO_zIHpefEQXU1NpmJIACB3QJ/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T12:12:28.765Z",
+    "__v": 0
+  },
+  {
+    "_id": "68458010ebf68b8862e10825",
+    "title": "Tower of God",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGM4NjE1OWYtNzcwMC00ZGY0LWE4NjEtZTgzYzY4YWU5M2E3XkEyXkFqcGdeQXVyMzI2Mjc1NjQ@._V1_.jpg",
+    "description": "Reach the top, and everything will be yours. At the top of the tower exists everything in this world, and all of it can be yours.",
+    "totalEpisodes": 13,
+    "status": "S1 Completed",
+    "rating": 7.5,
+    "genre": "Animation ,Action ,Adventure ,Drama ,Fantasy ,Mystery",
+    "animeUrl": "tower-of-god",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/108-74UITXnJWrgSRbAn0WoKVQAjanbuv/preview",
+      "2": "https://drive.google.com/file/d/103enETYNeRRv0wjfJ7G4ESlcc0Zrq4wk/preview",
+      "3": "https://drive.google.com/file/d/108k6yCqlL1KInrBJy3VEQfyWCi8rZsxt/preview",
+      "4": "https://drive.google.com/file/d/109mvYHbkD3SlhZDgrr_2Kp1M1o-zwDp7/preview",
+      "5": "https://drive.google.com/file/d/10BAy978w29LMJaX4ueNAuWW4877BY25s/preview",
+      "6": "https://drive.google.com/file/d/10BoGZbH00KpBLGPYQktNmJzYkY3PiFWF/preview",
+      "7": "https://drive.google.com/file/d/10HJxBnZdFJYpVM3UW-JGH7e6_Q2gApjK/preview",
+      "8": "https://drive.google.com/file/d/10Izt2Ppa4Qc7QxILLS86ipHTKDClxHPx/preview",
+      "9": "https://drive.google.com/file/d/10T_LaImcN1waWLiZ8kfE-idBPEb-xNuN/preview",
+      "10": "https://drive.google.com/file/d/10Y0oTskyCgdtsgFOvGzMGexxWYEmfduJ/preview",
+      "11": "https://drive.google.com/file/d/10b38YzjMBJdSkVWth0PoLyjt8RLVNZDU/preview",
+      "12": "https://drive.google.com/file/d/10g1_CO9qnJ54WKfh2KI_U8NBiBe_TGDo/preview",
+      "13": "https://drive.google.com/file/d/10rZTtwZrSFPexuWNp1glEQ5r4qXRWhQG/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T12:20:32.913Z",
+    "__v": 0
+  },
+  {
+    "_id": "68458146ebf68b8862e10829",
+    "title": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDBjZjQ1ZWQtNWJlMS00MWFiLWE0NDAtNDhiMzk0MTZmM2ViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+    "description": "A boy who's been brutally bullied all his life discovers a door to another world, which grants him access to cheat skills and opportunities to live a better life.",
+    "totalEpisodes": 13,
+    "status": "S1 Completed",
+    "rating": 6.5,
+    "genre": "Animation ,Action ,Adventure ,Fantasy",
+    "animeUrl": "i-got-a-cheat-skill-in-another-world",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1gpoWFTJJiid463gXVOLzhZtWoiUitKfU/preview",
+      "2": "https://drive.google.com/file/d/1TsgBa2iGyvM84Cbu9YggjTpEucMDcOWj/preview",
+      "3": "https://drive.google.com/file/d/1p8UppfQhAUrsqbm3x-GbIOvek3HJIvGs/preview",
+      "4": "https://drive.google.com/file/d/14n5g_tr_HOC5l9wNYWEuv3KesNAu44bt/preview",
+      "5": "https://drive.google.com/file/d/1Gt4uM_nCmEZxV21UyduMg7k1AGaYfXVr/preview",
+      "6": "https://drive.google.com/file/d/1_gBG2_dLXW16fWrzZ_8hfc7kxHbWnICs/preview",
+      "7": "https://drive.google.com/file/d/1FmpJDcitIKFF5pw2NDwWySJ2tQdRXCV3/preview",
+      "8": "https://drive.google.com/file/d/1grqtE4Yik7eoxPh6C60Ec7za7jQn3YIl/preview",
+      "9": "https://drive.google.com/file/d/1NwWZ6JzhKsknK2pbIgC9VcV-xcLhQapl/preview",
+      "10": "https://drive.google.com/file/d/1RcfDiCqc5ff4J-Jgn64W3mmGiipLQ3Jl/preview",
+      "11": "https://drive.google.com/file/d/11e2vNz-Si32niDBAtlF2QLf0hqsk54Rf/preview",
+      "12": "https://drive.google.com/file/d/1xxdcj6EV8Ua5fJFGaoYm6iyodF1VQI-g/preview",
+      "13": "https://drive.google.com/file/d/1-fEr0eu6wwj5GmZvOd_UtxB8-vmgXBeO/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T12:25:42.831Z",
+    "__v": 0
+  },
+  {
+    "_id": "6845822aebf68b8862e10832",
+    "title": "The Iceblade Sorcerer Shall Rule the World",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGQzM2VhZTktOGEyNy00OTE5LWJjMTItNGFkZDg5YmY1YmUzXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+    "description": "Everyone knows the most powerful soldier, the Ice Sword Wizard who led the country to victory three years ago, but few know his real name: Ray White.",
+    "totalEpisodes": 12,
+    "status": "S1 Completed",
+    "rating": 6.4,
+    "genre": "Animation ,Action ,Adventure ,Fantasy",
+    "animeUrl": "the-iceblade-sorcerer-shall-rule-the-world",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/19qXIKUQy6yoW-THGBD2x-aFn4uPAsG7Q/preview",
+      "2": "https://drive.google.com/file/d/11fZOUl4j2nqlHDp6JZRGBQH5c8EaDhk9/preview",
+      "3": "https://drive.google.com/file/d/11z_4oIbRTdnr9EJzxsZxP4VFGLBmHSIV/preview",
+      "4": "https://drive.google.com/file/d/1HRqXGalW7tXXTRrmSbWudluLPfyj5YGR/preview",
+      "5": "https://drive.google.com/file/d/1BnvxM6M7Ha0pIPDuxbwq3xHmMUtt8206/preview",
+      "6": "https://drive.google.com/file/d/1cAZAb4FtNB3QEajXmZwj8QzGmiNyg5_P/preview",
+      "7": "https://drive.google.com/file/d/1VZO2LgnnkrJNrBE3Ic64VKVN3wmugRx3/preview",
+      "8": "https://drive.google.com/file/d/1Wo39poS5SzX3Svcv7KUkaQ3Gp1MY1Kla/preview",
+      "9": "https://drive.google.com/file/d/1OmWwNTh-fNHRTm1TKuXvhDti1xNKLbig/preview",
+      "10": "https://drive.google.com/file/d/1ZEC7vCdsbTxypI_NO6Y0SEZ59aVtVaeM/preview",
+      "11": "https://drive.google.com/file/d/1ddc6FXdc2edCzk5zwS7ryONwTz_xY_Gy/preview",
+      "12": "https://drive.google.com/file/d/1ZlR6hmLJ6svL9ZLkyAwIu3_EEvF6DVX_/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T12:29:30.013Z",
+    "__v": 0
+  },
+  {
+    "_id": "68458382ebf68b8862e10836",
+    "title": "Jujutsu Kaisen",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+    "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
+    "totalEpisodes": 24,
+    "status": "S1 Completed",
+    "rating": 8.5,
+    "genre": " Animation ,Action ,Adventure ,Fantasy ,Thriller",
+    "animeUrl": "jujutsu-kaisen",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1YzgMz9vAjqsZ9349BuDPs0TDidHzz4Ar/preview",
+      "2": "https://drive.google.com/file/d/1dv6ZEdAk4xOg4JKP0Of_eEK0nHJnXW8p/preview",
+      "3": "https://drive.google.com/file/d/10zgVzh-LPYKxXtCAqkVqfniA_-RQ5dzc/preview",
+      "4": "https://drive.google.com/file/d/1C-CPiYvxZ-BUu0-1awqN93444u79i8dQ/preview",
+      "5": "https://drive.google.com/file/d/1GCO47IORQj_tSM_xFXXugmGb4J_sBeid/preview",
+      "6": "https://drive.google.com/file/d/1pBsVSTA4m9JX2NEZBcd5AR_GGlypGVga/preview",
+      "7": "https://drive.google.com/file/d/1qIKm0Z2q6R8mpIQeCnqMwsYH0XUhiGWM/preview",
+      "8": "https://drive.google.com/file/d/1Xr-ucrRrHB1X0j17p-5re6sBaadBCYEK/preview",
+      "9": "https://drive.google.com/file/d/1Dt9RgBQu3s8w6DnoEFqC6B_JitOLRx6C/preview",
+      "10": "https://drive.google.com/file/d/19c5SHkkZE9dd5QX3V1bJfpmUVOiXsMfT/preview",
+      "11": "https://drive.google.com/file/d/1GKG0LZduXIYdg2BwS1HLYHybXLQPGH-J/preview",
+      "12": "https://drive.google.com/file/d/1PTZ0urtF2DYtrrHDfpD0dCctrZVZ4l0n/preview",
+      "13": "https://drive.google.com/file/d/1_qHF4b3iTYNg2fpmOKRaP71jwBucbxqf/preview",
+      "14": "https://drive.google.com/file/d/1K3aoaX_kjoMQ82axg6EGd65sdwWwmiYf/preview",
+      "15": "https://drive.google.com/file/d/1iguUi3DLNccBzjLpz-ojKxhkD4v0_UAl/preview",
+      "16": "https://drive.google.com/file/d/1Liua8zYgMVbEgBQNoINpeiOfOcNSfHL3/preview",
+      "17": "https://drive.google.com/file/d/1PFXn1ZrEPtkf_HdXuepHJAy5ouVfWyAQ/preview",
+      "18": "https://drive.google.com/file/d/1XKOrv71LaiyqL5lPhe0ZxR3OgXjGgQRz/preview",
+      "19": "https://drive.google.com/file/d/1X-nLfO7VUMlWOj0uPG_fvoGu_BDxP9-T/preview",
+      "20": "https://drive.google.com/file/d/1jmfW62ZWzWUSeFBXKioabvlz-140RZPg/preview",
+      "21": "https://drive.google.com/file/d/1X-nLfO7VUMlWOj0uPG_fvoGu_BDxP9-T/preview",
+      "22": "https://drive.google.com/file/d/1jmfW62ZWzWUSeFBXKioabvlz-140RZPg/preview",
+      "23": "https://drive.google.com/file/d/1iwKeh_bSD-YU9FNkUBNYtxbnmK-smUP_/preview",
+      "24": "https://drive.google.com/file/d/1uRffz7ckGfB7kqIA5GaJfmFKshW04i7O/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T12:35:14.834Z",
+    "__v": 0
+  },
+  {
+    "_id": "68458483ebf68b8862e1083a",
+    "title": "Jujutsu Kaisen S2",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+    "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
+    "totalEpisodes": 23,
+    "status": "S1 Completed",
+    "rating": 8,
+    "genre": " Animation ,Action ,Adventure ,Fantasy ,Thriller",
+    "animeUrl": "jujutsu-kaisen-s2",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1kKwdiuJSn_6inwCPoW2lnWhlGz78gOK4/preview",
+      "2": "https://drive.google.com/file/d/1oSLTg1TxK_tprZm1I42M_wFNJlrdLLuC/preview",
+      "3": "https://drive.google.com/file/d/1WLWCO-nra6VIQQ3GM-gxipsDIYqqx0em/preview",
+      "4": "https://drive.google.com/file/d/1SQqUEfN2xprjTxRkwRsKV7DgsOHv1lMi/preview",
+      "5": "https://drive.google.com/file/d/17xIv48DEWR5PZR1yDLOgt4U9riEm0j7X/preview",
+      "6": "https://drive.google.com/file/d/1iWTE0zysZBM4VzxWFHLdD7eqAjpUXHGF/preview",
+      "7": "https://drive.google.com/file/d/1GInTPUa7gHbutQtmx9CjjYsBlYZ_Ud9K/preview",
+      "8": "https://drive.google.com/file/d/1L4eHa8vkcjISx7HDDIK4iVvJZwLYy0Su/preview",
+      "9": "https://drive.google.com/file/d/1Jt-Uj5B0IJUr8IKr_sKyq4-WatlOPLDP/preview",
+      "10": "https://drive.google.com/file/d/1GqZczP6iDZLcHxTEYofQvx7_uaZcSm9w/preview",
+      "11": "https://drive.google.com/file/d/1vHKuOffEU0OyTYctxtLP7nAidlgqU8av/preview",
+      "12": "https://drive.google.com/file/d/1l2w3Md7tbiHvZ_co85rMIKRK2iyPRXTF/preview",
+      "13": "https://drive.google.com/file/d/1l317SqKV8LU692zmXlzkALKcm4_n6OXv/preview",
+      "14": "https://drive.google.com/file/d/1msT7R8vixu67qOxY64-CbU4_p88KQvOn/preview",
+      "15": "https://drive.google.com/file/d/1joyEiYsc8NQhpDzZg8y3-qu1Q37CW_5P/preview",
+      "16": "https://drive.google.com/file/d/17WF7TWaZ6fc8UJsHDj05GbULhu_Bpdub/preview",
+      "17": "https://drive.google.com/file/d/1KXkQxzMJl4k6lf-NhJGyJRH3aOm3VMMG/preview",
+      "18": "https://drive.google.com/file/d/1-EM344JrSHU1uTDUz-ZBnGiBI-jPnhFh/preview",
+      "19": "https://drive.google.com/file/d/1M84fG6zzpIUvUTDT8buSkCna9xG7Nb5s/preview",
+      "20": "https://drive.google.com/file/d/1UTIxDT9AJHR1Pmm1IqQb8BbfSs3ArQHy/preview",
+      "21": "https://drive.google.com/file/d/1pGELxi4YUsAAKkjb0zO7brYHgui48KZK/preview",
+      "22": "https://drive.google.com/file/d/15MTM5Uwk_mplD-g636fZtLjF6JSG57Eo/preview",
+      "23": "https://drive.google.com/file/d/1-9we7UXhZ_LvV14yNvExyG0Hf0bJU00F/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T12:39:31.933Z",
+    "__v": 0
+  },
+  {
+    "_id": "6845854bebf68b8862e1083e",
+    "title": "Spy x Family S2",
+    "image": "https://a.storyblok.com/f/178900/1064x1596/61bcc02e80/68719a787bc41e1e0f846272c0820a001666016345_main.jpg/m/filters:quality(95)format(webp)",
+    "description": "A spy on an undercover mission gets married and adopts a child as part of his cover. His wife and daughter have secrets of their own, and all three must strive to keep together.",
+    "totalEpisodes": 12,
+    "status": "S2 Completed/Ongoing",
+    "rating": 8.6,
+    "genre": " Animation ,Action ,Comedy ,Thriller",
+    "animeUrl": "spy-family-s2",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1cR535Kd0-2xAlgQx9Y74WlDeq6itikck/preview",
+      "2": "https://drive.google.com/file/d/1wCIfYzlpQA4s7xHxV8DJeG9u8Sz8xrRF/preview",
+      "3": "https://drive.google.com/file/d/1hu4m0ER3WsglbezJ3iGdFCZ7oZxn0fWZ/preview",
+      "4": "https://drive.google.com/file/d/1eNPIRo8f2ygZfrGdKVCZNvRnColnoBJD/preview",
+      "5": "https://drive.google.com/file/d/12yZH7t1Yy1izyuZ3OaUTTvdFmU-GP5hF/preview",
+      "6": "https://drive.google.com/file/d/1IUPcaF-nak6KPO3mDsjQ94mAgevACZHm/preview",
+      "7": "https://drive.google.com/file/d/1h79LfTlNClnkiI5oOh3hakOjuXFE6Uyd/preview",
+      "8": "https://drive.google.com/file/d/1gJw_VINmslnGvmtwqbVChVWqZfA8gX6i/preview",
+      "9": "https://drive.google.com/file/d/1VeEg8U9DWScmWv2aYtbjD8NOzk4Vpz7j/preview",
+      "10": "https://drive.google.com/file/d/1tGUYXFTxj-gAWm8Rbcsb6ZW9vd_VaSrG/preview",
+      "11": "https://drive.google.com/file/d/1ATbTpkif5jhKlmJoq5OvrDNKJBXkKIg5/preview",
+      "12": "https://drive.google.com/file/d/1u8DPgBf0SIBWx9LPyEE9w6z8teHhDT2q/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T12:42:51.116Z",
+    "__v": 0
+  },
+  {
+    "_id": "684585e6ebf68b8862e10841",
+    "title": "Demon Slayer S4: Kimetsu No Yaiba - To the Hashira Training",
+    "image": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/765ee047befcfb677d169f5de4c82d5c.jpg",
+    "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
+    "totalEpisodes": 8,
+    "status": "S2 Completed/Ongoing",
+    "rating": 8.6,
+    "genre": " Animation ,Action ,Adventure ,Fantasy ,Thriller",
+    "animeUrl": "demon-slayer-s4",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1-zMME9CweWHL_bG4LcGl_ZyuuhClu-hr/preview",
+      "2": "https://drive.google.com/file/d/100eLgyL6JuTFVDp4APzpeHPpszMTJ9lE/preview",
+      "3": "https://drive.google.com/file/d/101kqGj3XgVelrk-9BXHyqZacRg2KTu9f/preview",
+      "4": "https://drive.google.com/file/d/10EsD9_KC0fMX78cn5y-_Y6ONdaQgI3lT/preview",
+      "5": "https://drive.google.com/file/d/10719OMXwSyxTutjuwgp8E_4QEp3NOBth/preview",
+      "6": "https://drive.google.com/file/d/10CFO5rDevq0rL1juH4JZibqTpRc0GG1I/preview",
+      "7": "https://drive.google.com/file/d/10DxzPHuwaBpuJ46tKaG3okKo9dFRS59p/preview",
+      "8": "https://drive.google.com/file/d/1-zB9k8uXMUob5fXccF34ccCWp1V7oNMK/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T12:45:26.319Z",
+    "__v": 0
+  },
+  {
+    "_id": "684586c6ebf68b8862e1084a",
+    "title": "The Reincarnation of the Strongest Exorcist in Another World",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjVlNGY3MDEtZjFkMy00YTcwLTgwZmYtNDlkN2NjNDVlNDg4XkEyXkFqcGdeQXVyMTUwMTA0Nzc2._V1_FMjpg_UX1000_.jpg",
+    "description": "Haruyoshi Kuga uses a reincarnation spell to bring Seika Lamprogue happiness, but his onmyo art exceeds the world's magic.",
+    "totalEpisodes": 13,
+    "status": "S1 Completed",
+    "rating": 7,
+    "genre": "Animation ,Action ,Adventure ,Fantasy ,Romance",
+    "animeUrl": "the-reincarnation-of-the-strongest-exorcist-in-another-world",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1-5sLV2hACl0Xs3DNdzi2ePXVB-nwUXnK/preview",
+      "2": "https://drive.google.com/file/d/1-8aECL0-JS09gUYVLWHz4-sURMKp3iSw/preview",
+      "3": "https://drive.google.com/file/d/1-72qL-uuOaIz9_sEbezuIICsW1YW5OGq/preview",
+      "4": "https://drive.google.com/file/d/1-ETDAjDb9cWzfVPCva57Dert6-dw8HKP/preview",
+      "5": "https://drive.google.com/file/d/1-B7QtStRqZmFPDDuiU2Tg2F-5bhyX_rM/preview",
+      "6": "https://drive.google.com/file/d/1-FdqsihtYeLYSCnCbBIuZxW1twjBxF8U/preview",
+      "7": "https://drive.google.com/file/d/1-KxQT-Cr8ZP8dwY2TRx2Ahe4N1wl5fsV/preview",
+      "8": "https://drive.google.com/file/d/1-PRWIrpWMu17Zlgzuf63zknaQPVIpzBq/preview",
+      "9": "https://drive.google.com/file/d/1-O1KIWYL1veGNF07TwVAcpg3MXmJbk2b/preview",
+      "10": "https://drive.google.com/file/d/1-PSVzys4dyFtQe23G9u8hgRBVnJsFw9Y/preview",
+      "11": "https://drive.google.com/file/d/1-Rt5b0lzLS3h4T5HRSnKg7qSVkNhrtaB/preview",
+      "12": "https://drive.google.com/file/d/1-Sq8gSgyfIVSa7f1-LG-yyx-ZLeYgdxE/preview",
+      "13": "https://drive.google.com/file/d/1-Tg1t41M8CUjNVCPGTlyW0VM4t5Y2V8Z/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T12:49:10.532Z",
+    "__v": 0
+  },
+  {
+    "_id": "684587a7ebf68b8862e1084e",
+    "title": "Black Summoner",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmU2ZGFkY2MtYTVlOS00ZmExLThjMzMtY2MwMWFiYTBmMDA3XkEyXkFqcGc@._V1_.jpg",
+    "description": "Kelvin reincarnates in another world with goddess Melfina as his guide, having traded memories for summoning magic skills. To avoid attention, he begins an adventurer's life.",
+    "totalEpisodes": 6,
+    "status": "S1 Complet",
+    "rating": 7.1,
+    "genre": "Animation ,Action ,Fantasy",
+    "animeUrl": "black-summoner",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1-fllDEVX32Dbv2v0yDNnudXCbPvI2U9k/preview",
+      "2": "https://drive.google.com/file/d/1-h4kkbrToXMyKQoXnhLtwAi6SPJgNc0W/preview",
+      "3": "https://drive.google.com/file/d/1-heopV7uV098L0DiJr2QgknBbDumrdp0/preview",
+      "4": "https://drive.google.com/file/d/1-jSg35oPpkTuxxJp8YAEA3XSyM-sJvSY/preview",
+      "5": "https://drive.google.com/file/d/1-lACe5W3yrPwqHugpmcKpqd5Esjvov3s/preview",
+      "6": "https://drive.google.com/file/d/1-ueB8EyWHxYxzWGqv5p1h92zgZ1k51Qk/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T12:52:55.832Z",
+    "__v": 0
+  },
+  {
+    "_id": "6845886bebf68b8862e10851",
+    "title": "Gods' Games We Play",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDg3ZmYyYTQtOTlhZC00YjRkLWEzMTQtZDkxOWQ1ZTZkYTc1XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+    "description": "In a cosmic game of chess, the gods draw human minds into their arena. A fresh apostle and an ancient deity join forces to challenge celestial puzzles and divine jesters.",
+    "totalEpisodes": 13,
+    "status": "S1 Completed",
+    "rating": 5.8,
+    "genre": "Animation ,Comedy ,Drama ,Fantasy ,Romance",
+    "animeUrl": "gods-games-we-play",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1-So-xpqYU8seT0V5iHPhQmEpohk7QjMZ/preview",
+      "2": "https://drive.google.com/file/d/1-TtHV8WS3wlk2tHWA1RtSB7xVM1VABKa/preview",
+      "3": "https://drive.google.com/file/d/1-Tu5rNm3TCIiXARa_W2oK-ytN26mM7_X/preview",
+      "4": "https://drive.google.com/file/d/1-U16YK158qBrLo8QxZXKOojBWfUSD6_0/preview",
+      "5": "https://drive.google.com/file/d/1-xYfVKNyGDIxKPkwZQLuF6Rkbqd6ewQD/preview",
+      "6": "https://drive.google.com/file/d/1-U9AS0DO4Sbsg_Wruj5v7MAiFMSTbcTw/preview",
+      "7": "https://drive.google.com/file/d/1-Xg_AyUlVVGorldSRQ1eCgjbmrOwmfO_/preview",
+      "8": "https://drive.google.com/file/d/1-X-LWBOmvK8Z7aZI2gaQwf6r-8PGFccx/preview",
+      "9": "https://drive.google.com/file/d/1-hQv8og8H1dr6Y36Di5PCQz23OX_u9if/preview",
+      "10": "https://drive.google.com/file/d/1-hi1j67SozEHgkAfSTVCPdYLk5eLH0M1/preview",
+      "11": "https://drive.google.com/file/d/1-m3R3Q1jnaC4qEjpUwaOFI_TeKKBLgAG/preview",
+      "12": "https://drive.google.com/file/d/1-rKOqbG99N5AbuE_cHCsw5pEd-dYHIDd/preview",
+      "13": "https://drive.google.com/file/d/1-tVXz6p18rbl7-0jAhmQMHDAKfRlz1-g/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T12:56:11.851Z",
+    "__v": 0
+  },
+  {
+    "_id": "6845895cebf68b8862e10855",
+    "title": "Hokkaido Gals Are Super Adorable!",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWJhNDUzYWYtMDExOC00M2FiLWJmNDctOGI4NTA4ZTQyODU2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "description": "Tsubasa, a Tokyo schoolboy, gets transferred to the town of Hokkaido in northern Japan, and meets beautiful girls there.",
+    "totalEpisodes": 12,
+    "status": "S1 Completed",
+    "rating": 6.8,
+    "genre": " Animation ,Comedy ,Romance",
+    "animeUrl": "hokkaido-gals-are-super-adorable",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/124yt5L3dfBuAA0WxFbHx1csKCAzZy_kf/preview",
+      "2": "https://drive.google.com/file/d/12QybicZe_N8gR6YWpQAXbpZJW4YFMJ8I/preview",
+      "3": "https://drive.google.com/file/d/125B7a0Z_D24LNr-Gj_KsZVxDKl1NO1sy/preview",
+      "4": "https://drive.google.com/file/d/128WFEgF7YjPiMJolfWItZSa0y-Ewahvz/preview",
+      "5": "https://drive.google.com/file/d/129vzlV__09Oc3h6AsNnPdsODZUvX9DQw/preview",
+      "6": "https://drive.google.com/file/d/12D7DUNxP--tdIXXeAYknUiHyaZSKmZlM/preview",
+      "7": "https://drive.google.com/file/d/12DoyqfqUirGYHbWed80rcLbZt_ZzwXa2/preview",
+      "8": "https://drive.google.com/file/d/12lLvgSbiBZ5six-XHCfI96X46ZGfVkRx/preview",
+      "9": "https://drive.google.com/file/d/12SA05DjOPrkCqpDGbnwhrZ2gSlndnrCk/preview",
+      "10": "https://drive.google.com/file/d/13Cxvvv-g-OHX1AV7I1HEWYH9ZfuId40Q/preview",
+      "11": "https://drive.google.com/file/d/13D-KRf2CuMYkVYr4hcXy5ZLHv4PRjJ4M/preview",
+      "12": "https://drive.google.com/file/d/12f2v-s4t8EoorhSk8Ac5CEFu5iHc82CD/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T13:00:12.598Z",
+    "__v": 0
+  },
+  {
+    "_id": "68458a09ebf68b8862e10859",
+    "title": "Viral Hit",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWM5Yjk3MzUtZmNlYy00ZWQ2LTk0YTctZjExOGY2YThlZmNjXkEyXkFqcGc@._V1_.jpg",
+    "description": "After following some advice from a mysterious NewTube channel, Hobin is soon knocking out guys stronger than him and raking in more money than he could have ever dreamed of. Will Hobin be able to keep this up?",
+    "totalEpisodes": 12,
+    "status": "S1 Completed",
+    "rating": 7.2,
+    "genre": " Animation ,Action",
+    "animeUrl": "viral-hit",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1j-A8bL7iNTd85YWaCG9RcoBwZqT-i7Kz/preview",
+      "2": "https://drive.google.com/file/d/1ueZQEBlu-UEE962l7hqPLBCVS0wg7UOX/preview",
+      "3": "https://drive.google.com/file/d/1UWci331YdvYLNUFpaNIBdZfdACyIVD0p/preview",
+      "4": "https://drive.google.com/file/d/1YrF2vdOH45-Lti9TyIyVCfRuJWTGH3b-/preview",
+      "5": "https://drive.google.com/file/d/1A_nwwsLUgmfSpeCkEqXuKO6ANF_r8EWN/preview",
+      "6": "https://drive.google.com/file/d/1a9cT0DLWj5Urzwzlyw5a_0kQJWabjT2Y/preview",
+      "7": "https://drive.google.com/file/d/1G0rNQEL3VtmtOMslYXyNmeQIiMybU9s-/preview",
+      "8": "https://drive.google.com/file/d/18cvq_QYtRXJENv5QBxZ5bzC8S7W5wy3N/preview",
+      "9": "https://drive.google.com/file/d/1Og1tBO9gMzsll7EF8XCLzFxDM5860U4F/preview",
+      "10": "https://drive.google.com/file/d/1g_eWuccxwacwytS0zUwyh-BZVqYtlTuS/preview",
+      "11": "https://drive.google.com/file/d/1AtEJJGkajXqAXSBRDCgprSa3J2vyIg8B/preview",
+      "12": "https://drive.google.com/file/d/13VLNBYc4KqhUjsLBNKdiT8mQdcugclRc/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T13:03:05.057Z",
+    "__v": 0
+  },
+  {
+    "_id": "68458abbebf68b8862e1085c",
+    "title": "https://m.media-amazon.com/images/M/MV5BNDkzMGI0MGQtYWM0Ni00NTY1LTk3MTAtZGZkMWY3NWNhOGFkXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDkzMGI0MGQtYWM0Ni00NTY1LTk3MTAtZGZkMWY3NWNhOGFkXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
+    "description": "Araji Tomobishi gets caught up in battles among powerful individuals after reuniting with his former friend Mataka Asamine. Meanwhile, the shadow of a colossal demon appears...?!.",
+    "totalEpisodes": 12,
+    "status": "S1 Completed",
+    "rating": 6.2,
+    "genre": "Animation ,Action ,Adventure ,Comedy ,Fantasy",
+    "animeUrl": "bucchigiri",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1rE36TRR-bcDyGW-_aw27PqDEzGuZWGaX/preview",
+      "2": "https://drive.google.com/file/d/1aoy7-YP9UZcWMR6gMWFOJLbGxQV_HAyr/preview",
+      "3": "https://drive.google.com/file/d/1lnHDfYCrGkj-8RjtUAZimIHcmdjyEAp6/preview",
+      "4": "https://drive.google.com/file/d/1k5tAOxCPf7UQkK7hN6TayEislzwVBWSh/preview",
+      "5": "https://drive.google.com/file/d/1slckzY0XGxvGzpbvyo8Jb4X4eMCtjPQv/preview",
+      "6": "https://drive.google.com/file/d/1lLLGC3MKPlkXkHpdBMn8GDc_pCGOW_7y/preview",
+      "7": "https://drive.google.com/file/d/1ZA9rvCbeZCXEn_GfoMtG4jDzyTFE1_o-/preview",
+      "8": "https://drive.google.com/file/d/1Th5RP-BIOwwS4rg7oJlWB8YatkaDckjr/preview",
+      "9": "https://drive.google.com/file/d/1j-PipM7XdzedJnz3fu29dtrWarDTSV9M/preview",
+      "10": "https://drive.google.com/file/d/1LVWm3SrMz1fmTuGagsw6IkSgrei6QTwX/preview",
+      "11": "https://drive.google.com/file/d/16eJoNwXx8zA7geZ6Yx-FsMwBREujbu9n/preview",
+      "12": "https://drive.google.com/file/d/1WoA71imKcgkNPelMq4bL-UdenwgrcxTo/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T13:06:03.291Z",
+    "__v": 0
+  },
+  {
+    "_id": "68458b81ebf68b8862e10860",
+    "title": "Junji Ito Collection",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjI3YTk0OTQtODk4MC00MjAyLWE5MTQtNzNjMzI1N2FiYjJmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "description": "A collection of animated horror stories based on the works of Japanese artist Junji Ito.",
+    "totalEpisodes": 14,
+    "status": "S1 Completed",
+    "rating": 6.7,
+    "genre": " Animation ,Drama ,Horror ,Mystery",
+    "animeUrl": "junji-ito-collection",
+    "videoIds": {
+      "1": "https://drive.google.com/file/d/1A2daW34_AOa884bbHxeKe8tfFdNWX552/preview",
+      "2": "https://drive.google.com/file/d/1LboioHBRiGgv-hXeIVuJvO2JcCQHyG7w/preview",
+      "3": "https://drive.google.com/file/d/1cFwPrJad_xLO8oycBNJhMACw8oW8EOVr/preview",
+      "4": "https://drive.google.com/file/d/1Fzf5ISHVy4CferQJYfKC9VwMxNn7BY_Q/preview",
+      "5": "https://drive.google.com/file/d/1Cf4-5ndqVE9P9qqwF0bZC3z3R-tbFUQ9/preview",
+      "6": "https://drive.google.com/file/d/1Im9sO9gUFSnosxrDpSlhERfyxpPG7bGL/preview",
+      "7": "https://drive.google.com/file/d/138Uqnx6RvCW_oUk0HfabopGByyuwn2We/preview",
+      "8": "https://drive.google.com/file/d/1TrAQFkL4WXeoMlZGO1WBYyUyHBlGY_pO/preview",
+      "9": "https://drive.google.com/file/d/1N05LLhqOrresQdaFfwnPncIzxn5XPoG4/preview",
+      "10": "https://drive.google.com/file/d/13be-PFf4-47ute0mhtGKgS_vUx3WoiUm/preview",
+      "11": "https://drive.google.com/file/d/1ZCgGgONkG1cqhgbSrRjoXVbFG4S7XZX3/preview",
+      "12": "https://drive.google.com/file/d/10HgJ_6voJMKrtZWKkRNkGGOXFNvRqxPr/preview",
+      "13": "https://drive.google.com/file/d/1dnxRNh5f5XDFxIGJ07yD-_MHBQmrj25c/preview",
+      "14": "https://drive.google.com/file/d/1VXuprYdPnp_Q0eG6G4q_TGaRlRWtFEDF/preview"
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "date": "2025-06-08T00:00:00.000Z",
+    "updatedAt": "2025-06-08T13:09:21.344Z",
+    "__v": 0
+  },
+  {
+    "_id": "68458b85ebf68b8862e10863",
+    "videoIds": {
+
+    },
+    "seasons": {
+
+    },
+    "likes": 0,
+    "shares": 0,
+    "updatedAt": "2025-06-08T13:09:25.474Z",
+    "__v": 0
+  }
+]
